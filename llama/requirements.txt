@@ -1,0 +1,4 @@
+curl_cffi
+duckduckgo_search
+requests
+beautifulsoup4
